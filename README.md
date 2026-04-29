@@ -12,3 +12,6 @@ pandas + numpy — swing detection, FVG detection, simulation
 zoneinfo — correct NY EST/EDT timezone handling
 matplotlib — 6-panel dark dashboard
 pytest — unit tests for windows, FVGs, swings, simulation, and metrics
+
+
+similar to ICT 2022 MARKET MAKER STrategy
